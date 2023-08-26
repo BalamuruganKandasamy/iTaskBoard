@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "iTaskBoard", "iTaskBoard.csproj", "{51A4B110-3C96-423F-9643-BBA088C92961}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "iTaskBoard.Data", "..\iTaskBoard.Data\iTaskBoard.Data.csproj", "{B092D653-D84B-4781-B791-9C69C52AC70A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51A4B110-3C96-423F-9643-BBA088C92961}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51A4B110-3C96-423F-9643-BBA088C92961}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51A4B110-3C96-423F-9643-BBA088C92961}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51A4B110-3C96-423F-9643-BBA088C92961}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B092D653-D84B-4781-B791-9C69C52AC70A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B092D653-D84B-4781-B791-9C69C52AC70A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B092D653-D84B-4781-B791-9C69C52AC70A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B092D653-D84B-4781-B791-9C69C52AC70A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AC633E03-5982-4C2F-BF34-0E9C1F9AB48E}
+	EndGlobalSection
+EndGlobal
